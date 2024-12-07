@@ -1,0 +1,10 @@
+198.23.239.134:6540:bzgcvaah:ha5umlxzskyw
+207.244.217.165:6712:bzgcvaah:ha5umlxzskyw
+107.172.163.27:6543:bzgcvaah:ha5umlxzskyw
+64.137.42.112:5157:bzgcvaah:ha5umlxzskyw
+173.211.0.148:6641:bzgcvaah:ha5umlxzskyw
+161.123.152.115:6360:bzgcvaah:ha5umlxzskyw
+167.160.180.203:6754:bzgcvaah:ha5umlxzskyw
+154.36.110.199:6853:bzgcvaah:ha5umlxzskyw
+173.0.9.70:5653:bzgcvaah:ha5umlxzskyw
+173.0.9.209:5792:bzgcvaah:ha5umlxzskyw
